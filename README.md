@@ -53,7 +53,6 @@ Ensure the following are installed on your machine:
     yarn dev
 
 
- Open http://localhost:3000 to see the app in action.
 
 Project Structure
 
