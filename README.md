@@ -46,7 +46,8 @@ Ensure the following are installed on your machine:
    Download the google-services.json file for Firebase and place it in the android/app/ directory.
 
 
- *Run the app:
+ 
+ Run the app:
 
     npm run dev
     or
