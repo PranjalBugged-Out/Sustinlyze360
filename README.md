@@ -1,4 +1,4 @@
-# Sustinlyzer360 – Gamified Carbon Footprint Tracker
+# Sustinlyze360 – Gamified Carbon Footprint Tracker
 
 ## Introduction
 Sustinlyzer360 is an interactive platform that helps individuals and organizations track, reduce, and offset their carbon footprint. By combining real-time tracking with gamified elements like rewards, badges, and challenges, it makes sustainability engaging and fun.
